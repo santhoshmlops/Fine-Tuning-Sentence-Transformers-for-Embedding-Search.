@@ -53,3 +53,4 @@ Using SentenceTransformer 3.0.0 makes training or fine-tuning embedding models s
 The Evaluator functionality aids in evaluating models during the training phase, catering to defined tasks like Embedding Similarity Search in our scenario. Upon loading the model for inference, it delivers as anticipated, yielding satisfactory similarity scores.
 
 This process harnesses the potential of vector embeddings to enhance search results, leveraging user queries and database interactions effectively.
+
